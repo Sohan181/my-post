@@ -1,0 +1,6 @@
+mat-expansion-panel{
+  margin: auto;
+  margin-top: 2rem;
+  width: 72%;
+  border:1px solid rgba(0, 0, 0, 0.178);
+}
